@@ -1,1 +1,2 @@
 first line in file1 by dev_A
+this line added by devb
